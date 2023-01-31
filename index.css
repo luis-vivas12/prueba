@@ -1,0 +1,26 @@
+body{
+    background-image: url(/imagenes/fondo.png);
+    background-color: rgb(131, 188, 132);
+}
+div{
+    background-color: rgba(163, 148, 148, 0.922);
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+    background-color: rgb(219, 223, 106);
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+img{
+    border-radius: 60%;
+    border-bottom: 15px;
+    margin-right: 40px;
+    float: left;
+}
